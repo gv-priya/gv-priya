@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @gv-priya
 - 👀 I’m interested in learning programming, completing projects.use these projects to showcase my skill.
 - 🌱 I’m currently learning javascript.
-- 💞️ I’m looking to collaborate on 
+- 💞️ I’m looking to collaborate on Javascript, creating webapps.
 - 📫 How to reach me @ gvijayakumar_1@outlook.com
 
 <!---
